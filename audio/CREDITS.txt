@@ -1,0 +1,18 @@
+流浪博物馆 · 音效来源与署名 / Wandering Museum · sound credits
+
+lantern-rise.mp3 (点灯升空 / lantern rising)
+  Adapted (trimmed to 2 s, faded, level adjusted) from "Tibetan Singing Bowl hit 11inch.flac"
+  by Wikimedia Commons user דג בלי מלח, licensed CC BY-SA 4.0.
+  Source: https://commons.wikimedia.org/wiki/File:Tibetan_Singing_Bowl_hit_11inch.flac
+  License: https://creativecommons.org/licenses/by-sa/4.0/
+  This adapted file is likewise released under CC BY-SA 4.0.
+
+lantern-return.mp3 (灯落回水中 / lantern returning to the water)
+  Adapted (trimmed to 2 s, faded, level adjusted) from "Tibetan bowl struck" (sound no. 1110)
+  by Joseph SARDIN, BigSoundBank.com, CC0 (public domain).
+  Source: https://bigsoundbank.com/tibetan-bowl-struck-s1110.html
+
+lantern-press.mp3 (头显里按钮按下 / button press in the headset)
+  Adapted (pitched up a fifth, trimmed to 0.3 s, faded, level adjusted) from the same recording as
+  lantern-return.mp3: "Tibetan bowl struck" (sound no. 1110) by Joseph SARDIN, BigSoundBank.com, CC0 (public domain).
+  Source: https://bigsoundbank.com/tibetan-bowl-struck-s1110.html

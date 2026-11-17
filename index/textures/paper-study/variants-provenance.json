@@ -1,0 +1,24 @@
+{
+  "method": "Built-in image_gen; illustrative AI materials, not scans or measured transmission maps",
+  "date": "2026-09-26",
+  "references": [
+    "https://ich.unesco.org/en/RL/traditional-handicrafts-of-making-xuan-paper-00201",
+    "https://kozo.studio/products/thin-natural-kozo-paper-45-gsm-64x94-cm",
+    "https://awagami.com/products/taizan-thin-strong-roll"
+  ],
+  "comparison": "Lighting, camera, roughness and thickness controls are shared; only generated surface texture and its derived light map change. Existing baseline remains unchanged.",
+  "prompts": [
+    {
+      "id": "xuan",
+      "prompt": "Use case: photorealistic-natural. Asset type: square 1024x1024 full-frame unlit paper albedo texture for a realtime lantern material. Orthographic flat scan-like surface, all image is paper, no visible sheet edges. Even diffuse illumination, no shadows, no gradients, no lamp, no objects, no lettering. Clean subtly warm off-white around RGB 220 216 207. Low contrast surface details, tile-friendly uniform edges. No dirt, mold, stains, folds, crumpling, fabric weave, needle-like strokes, cracks or marble veins. This is an illustrative simulated material, not a certified scan. Fine smooth thin Chinese Xuan paper, sandalwood bark and rice straw pulp visual character. Very fine densely integrated short wispy fibers, quiet soft microgranular pulp, nearly smooth at a distance. No prominent long strands. Soft ivory-white, clean understated delicate matte paper."
+    },
+    {
+      "id": "kozo",
+      "prompt": "Use case: photorealistic-natural. Asset type: square 1024x1024 full-frame unlit paper albedo texture for a realtime lantern material. Orthographic flat scan-like surface, all image is paper, no visible sheet edges. Even diffuse illumination, no shadows, no gradients, no lamp, no objects, no lettering. Clean subtly warm off-white around RGB 220 216 207. Low contrast surface details, tile-friendly uniform edges. No dirt, mold, stains, folds, crumpling, fabric weave, needle-like strokes, cracks or marble veins. This is an illustrative simulated material, not a certified scan. Fine evenly formed thin natural kozo paper. Delicate slightly longer interwoven translucent mulberry fibers, mostly integrated in smooth pale paper, restrained sparse soft curving fibers, clean handcrafted surface. Finer than decorative tissue, no large embedded pieces."
+    },
+    {
+      "id": "kozo-hemp",
+      "prompt": "Use case: photorealistic-natural. Asset type: square 1024x1024 full-frame unlit paper albedo texture for a realtime lantern material. Orthographic flat scan-like surface, all image is paper, no visible sheet edges. Even diffuse illumination, no shadows, no gradients, no lamp, no objects, no lettering. Clean subtly warm off-white around RGB 220 216 207. Low contrast surface details, tile-friendly uniform edges. No dirt, mold, stains, folds, crumpling, fabric weave, needle-like strokes, cracks or marble veins. This is an illustrative simulated material, not a certified scan. Thin kozo and hemp long-fiber handmade paper. Distinct soft pale longer organically curved fibrils sparsely distributed throughout a fine smooth pulp ground. Warm white. Long fibers should be pale translucent flattened ribbons integrated into sheet, not dark lines or pine needles, no coarse burlap or woven grid. More visible fiber structure than fine kozo but still delicate and clean."
+    }
+  ]
+}
